@@ -1,0 +1,97 @@
+body{
+    background: linear-gradient(to right, rgb(245, 170, 32),rgb(245, 104, 226));
+ } 
+
+.Box1{
+    background-color: rgb(241, 210, 150);
+       
+}
+img{
+    width: 200px;
+}
+form{
+    background-color: white;
+}
+h4{
+    font-family: 'Updock', cursive;
+    text-align: center;     
+}
+
+hr{
+    width: 200px;
+}
+.corner{
+    display: flex;
+}
+.major{
+    display: flex;
+}
+.one{
+    margin-left: 100px;
+    width: -9%;
+    font-size: 16px;
+    padding-left: 20px;
+
+}
+ /* .two label{
+    margin: 200px;
+}   */
+#ggle{
+    background-color: blue;
+}
+#scan{
+    background-color: red;
+}
+
+.major.two{
+    margin-left: 100px;
+    width: -9%;
+    font-size: 16px;
+    padding-left: 60px;
+    
+}
+.three{
+    margin-right: 100px;
+    width: -9%;
+    font-size: 16px;
+}
+.four{
+    margin-right: 100px;
+    width: -9%;
+    font-size: 16px;
+}
+.five{
+    margin-right: 100px;
+    width: -9;
+}
+h5{
+    text-align-last: right;
+}
+
+.container{
+    display: flex;
+    max-width: 90%;
+
+}
+.design{
+    text-align: center;
+
+}
+
+ .box4{
+    background-color: rgb(26, 134, 50);
+    height: 600px;
+    width: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1%;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+      }
+     
+      #login{
+          margin-top: 2%;
+       
+      } 
