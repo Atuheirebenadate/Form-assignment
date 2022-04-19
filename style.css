@@ -7,11 +7,20 @@ body{
        
 }
 img{
-    width: 200px;
+    width: 100%;
+    height: auto;
 }
 form{
     background-color: white;
+
 }
+.p1{
+    text-align: center;
+    text-align: justify;
+    padding-top: 30px;
+
+}
+
 h4{
     font-family: 'Updock', cursive;
     text-align: center;     
@@ -28,7 +37,7 @@ hr{
 }
 .one{
     margin-left: 100px;
-    width: -9%;
+    width: 200px;
     font-size: 16px;
     padding-left: 20px;
 
@@ -62,7 +71,7 @@ hr{
 }
 .five{
     margin-right: 100px;
-    width: -9;
+    width: -9%;
 }
 h5{
     text-align-last: right;
